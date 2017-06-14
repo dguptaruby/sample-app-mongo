@@ -6,7 +6,9 @@ gem 'rails', '4.2.2'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'mongoid'
 gem 'pg'
+gem 'bson_ext'
 gem 'rails_12factor', group: :production
 
 # Gems used only for assets and not required
